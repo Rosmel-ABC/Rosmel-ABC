@@ -1,7 +1,7 @@
 <h1 align="center">Hola 🙌, Soy Anderson</h1>
 <h3 align="center">Un apasionado por la Tecnología , los datos y la inteligencia Artificial</h3>
 
-- 🌱 Actualmente estoy aprendiendo **Machine Learning y Redes neuronales**
+- 🌱 Soy egresado de la carrera de ingenierñia mecatrónica de la UNFV  y actualmente estoy aprendiendo **Data Science - Machine Learning - Redes neuronales**
 
 - 📫 Contáctame en: **rbautista.4c.et@gmail.com**
 
