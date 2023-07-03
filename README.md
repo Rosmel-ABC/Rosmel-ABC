@@ -5,7 +5,7 @@
 
 - 📫 Contáctame en: **rbautista.4c.et@gmail.com**
 
-- Mis trabajos en visualización de datos [aquí](https://www.novypro.com/profile_projects/rosmel-andersonbautista-ccahuana)
+- Mis trabajos en visualización de datos en [POWER BI](https://www.novypro.com/profile_projects/rosmel-andersonbautista-ccahuana)
 
   
 
